@@ -1,0 +1,4 @@
+br\gov\sispm\bridge\LayoutInvalidoException.class
+br\gov\sispm\bridge\PosicionalParser.class
+br\gov\sispm\bridge\ConversorProcessor.class
+br\gov\sispm\bridge\PixTransacao.class
